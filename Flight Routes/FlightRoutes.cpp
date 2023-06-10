@@ -60,7 +60,7 @@ vector<long long int> relax(vector<vector<pair<int, int>>>& adj, int k) {
 }
 int main() {
     ios_base::sync_with_stdio(false);
-	cin.tie(NULL);
+    cin.tie(NULL);
     int n, m, k;
     cin >> n >> m >> k;
     vector<vector<pair<int, int>>> adj(n);
