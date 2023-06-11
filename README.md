@@ -1,4 +1,4 @@
-# CSES_Problem_Set
+# CSES Problem Set
 
 ## Environment
 MAC OS
