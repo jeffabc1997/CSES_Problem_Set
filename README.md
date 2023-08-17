@@ -4,4 +4,4 @@
 MAC OS
 
 ## Usage
-`g++ yourcpp.cpp -o yourexe.exe -std=c++17 -Wall`
+`g++ yourcpp.cpp -o yourexe.out -std=c++17 -Wall`
